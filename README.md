@@ -1,5 +1,3 @@
-# ux-docs
-```mermaid
-flowchart LR
-  A(Home) --> B(Profile)
-```
+# UX Docs
+
+1. [Google Fit](./docs/google-fit.md)
